@@ -1,4 +1,4 @@
-// My code --------------------------------------------------------------------------------
+// My code Without Local Storage --------------------------------------------------------------------------------
 
 // const form = document.querySelector(".form")
 // const input = document.querySelector(".addTextInput")
@@ -86,7 +86,7 @@
 
 
 
-// ChatGpt code -----------------------------------------------------------------------------------------------------------------------
+// ChatGpt code With Local Storage -----------------------------------------------------------------------------------------------------------------------
 
 const form = document.querySelector(".form")
 const input = document.querySelector(".addTextInput")
